@@ -9,6 +9,7 @@
 title                    : "Shuang Wu"
 description              : ""
 repository               : "Frostfreee/Frostfreee.github.io"
+favicon                  : "images/image.ico"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shuang Wu"
   avatar           : "images/photo.jpg" 
-  bio              : "PhD Student in CS at UConn. Interested in AI Trustworthiness, LLM Safety & GNNs."
+  bio              : "PhD Student in CS at UConn."
   location         : "Storrs, CT, USA"
   employer         : "University of Connecticut"
   pubmed           : 
