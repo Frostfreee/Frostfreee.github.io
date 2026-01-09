@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shuang Wu"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+# description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
 repository               : "Frostfreee/Frostfreee.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,41 +21,41 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
+  name             : "Shuang Wu"
+  avatar           : "images/profile.jpg" # 别忘了放一张照片进 images 文件夹，并命名为 profile.jpg
+  bio              : "PhD Student in CS at UConn. Interested in AI Trustworthiness, LLM Safety & GNNs."
+  location         : "Storrs, CT, USA"
+  employer         : "University of Connecticut"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : # e.g., "github username"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
+  googlescholar    : "https://scholar.google.com/citations?user=FSEj-_oAAAAJ" # 你的学术主页链接
+  email            : "shuang.wu@uconn.edu" # 帮你预填了学校邮箱格式，如果是个人邮箱请修改
+  researchgate     : 
+  uri              : 
+  bitbucket        : 
+  codepen          : 
+  dribbble         : 
+  flickr           : 
+  facebook         : 
+  foursquare       : 
+  github           : "Frostfreee" # 你的 GitHub 用户名
+  google_plus      : 
+  keybase          : 
+  instagram        : 
+  impactstory      : 
+  lastfm           : 
+  linkedin         : "shuang-wu-b92517336" # 你的领英用户名
+  dblp             : 
+  orcid            : 
+  pinterest        : 
+  soundcloud       : 
+  stackoverflow    : 
+  steam            : 
+  tumblr           : 
   twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
+  vine             : 
+  weibo            : 
+  xing             : 
+  youtube          : 
   wikipedia        :
 
 
