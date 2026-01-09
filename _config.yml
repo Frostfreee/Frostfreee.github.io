@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Shuang Wu"
-  avatar           : "images/android-chrome-512x512.png" # 别忘了放一张照片进 images 文件夹，并命名为 profile.jpg
+  avatar           : "images/photo.jpg" 
   bio              : "PhD Student in CS at UConn. Interested in AI Trustworthiness, LLM Safety & GNNs."
   location         : "Storrs, CT, USA"
   employer         : "University of Connecticut"
