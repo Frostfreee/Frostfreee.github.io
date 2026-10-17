@@ -22,7 +22,7 @@ Previously, I received my B.Eng. degree in Computer Science and Technology from 
 
 # 🔥 News
 {: #news }
-- *2026.10*: &nbsp;🎉 Our [SoK on LLM prompt security](https://arxiv.org/abs/2510.15476) was accepted to **IEEE S&P 2027**! I am a **co-first author**.
+- *2026.10*: &nbsp;🎉 Our [SoK on LLM prompt security](https://arxiv.org/abs/2510.15476) was accepted to **IEEE S&P 2027**!
 - *2026.01*: &nbsp;🎉🎉 I arrived in Storrs, CT and started my Ph.D. journey at **UConn**!
 - *2025.07*: &nbsp;🎓 I graduated from **South China University of Technology (SCUT)**.
 - *2025.04*: &nbsp;🎉🎉 One paper accepted to **IJCAI 2025**!
