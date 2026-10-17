@@ -24,12 +24,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shuang Wu"
   avatar           : "images/photo.jpg" 
-  bio              : "PhD Student in CS at UConn."
+  bio              : "Ph.D. Student at UConn · LLM Security & Reliability"
   location         : "Storrs, CT, USA"
   employer         : "University of Connecticut"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FSEj-_oAAAAJ" # 你的学术主页链接
-  email            : "shuang.wu@uconn.edu" # 帮你预填了学校邮箱格式，如果是个人邮箱请修改
+  email            : "shuang.wu@uconn.edu"
   researchgate     : 
   uri              : 
   bitbucket        : 

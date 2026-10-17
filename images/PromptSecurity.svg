@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" role="img" aria-labelledby="title desc">
+  <title id="title">PromptSecurity</title>
+  <desc id="desc">Taxonomies and datasets support unified evaluation of LLM attacks and defenses.</desc>
+  <rect width="800" height="500" fill="#f3f6fc"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="400" y="102" font-size="42" font-weight="700" fill="#163b75">PromptSecurity</text>
+    <text x="400" y="144" font-size="22" fill="#52617a">Systematizing LLM prompt security</text>
+    <g fill="#fff" stroke="#b8c9e7" stroke-width="2">
+      <rect x="70" y="193" width="300" height="76" rx="12"/>
+      <rect x="430" y="193" width="300" height="76" rx="12"/>
+      <rect x="160" y="333" width="480" height="88" rx="12"/>
+    </g>
+    <g font-size="25" font-weight="700" fill="#163b75">
+      <text x="220" y="241">Taxonomies</text>
+      <text x="580" y="241">Datasets</text>
+      <text x="400" y="370">Unified evaluation</text>
+    </g>
+    <path d="M220 269v32h180v24m180-56v32H400" fill="none" stroke="#7795c5" stroke-width="3"/>
+    <path d="M393 318l7 9 7-9" fill="none" stroke="#7795c5" stroke-width="3"/>
+    <text x="400" y="399" font-size="20" fill="#52617a">Models · Attacks · Defenses · Judges</text>
+    <text x="400" y="465" font-size="20" fill="#52617a">IEEE Symposium on Security and Privacy 2027</text>
+  </g>
+</svg>
